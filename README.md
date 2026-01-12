@@ -46,20 +46,22 @@ I combine engineering principles with programming tools to solve aerospace chall
 > 🔄 **Orbit Optimization:** Calculating the most fuel-efficient paths for spacecrafts using numerical methods.
 
 ---
-
+<!--
 ### 📊 Mission Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=criamadei&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criamadei&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=criamadei&theme=radical&hide_border=true" height="160" alt="Streak Stats" />
 </div>
+
 ---
+-->
 
 ### 📡 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/[IlTuoLinkLinkedIn]">
+  <a href="https://www.linkedin.com/in/cristiano-amadei/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amadei.cristiano1@gmail.com">
