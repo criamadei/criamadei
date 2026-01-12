@@ -18,11 +18,11 @@
 I am a **25-year-old** student currently pursuing my **Bachelor's Degree (BSc)** in Aerospace Engineering based in **Rome, Italy** 🇮🇹. 
 My journey is driven by the desire to bridge the gap between complex physical systems and efficient software solutions. While my head is often in the clouds (or above them), my code stays grounded in logic and precision.
 
+- 🗣️ **Pronouns**: He/Him
 - 🔭 **I’m currently working on:** Undergraduate projects involving orbital mechanics.
 - 🌱 **I’m currently learning:** Fundamentals of Earth Observation and orbit determination.
 - 🛰️ **Passionate about:** Remote Sensing, Satellite Data Analysis, and Space Systems.
 - 💬 **Ask me about:** Physics, Calculus, and Python for Engineering.
-- Pronouns: **He/Him**
 
 ---
 
@@ -33,8 +33,7 @@ I combine engineering principles with programming tools to solve aerospace chall
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
-
-  
+  <br /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
