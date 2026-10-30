@@ -15,7 +15,7 @@
 
 ### 👨‍🚀 About Me
 
-I am a **25-year-old** student currently pursuing my **Bachelor's Degree (BSc)** in Aerospace Engineering based in **Rome, Italy** 🇮🇹. 
+I am a **26-year-old** student currently pursuing my **Bachelor's Degree (BSc)** in Aerospace Engineering based in **Rome, Italy** 🇮🇹. 
 My journey is driven by the desire to bridge the gap between complex physical systems and efficient software solutions. While my head is often in the clouds (or above them), my code stays grounded in logic and precision.
 
 - 🗣️ **Pronouns**: He/Him
